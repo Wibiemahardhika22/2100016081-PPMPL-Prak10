@@ -1,5 +1,9 @@
 # Tugas Praktikum
 
+- Wibie Mahardhika Adi
+- 2100016081
+- A
+
 ## Deskripsi Project
 
 - terdapat 2 folder yaitu `src` dan `test`
